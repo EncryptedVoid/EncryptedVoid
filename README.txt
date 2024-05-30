@@ -7,7 +7,6 @@
 
 ### 📫 Contact Information
 - **Email**: ashiqarib@gmail.com
-- **Phone**: +1 343-987-5483
 
 ---
 
