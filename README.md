@@ -4,28 +4,31 @@
 📫 **Email:** ashiqarib@gmail.com  
 🔗 **LinkedIn:** [ashiq-gazi-090a6b213](https://www.linkedin.com/in/ashiq-gazi-090a6b213)  
 💻 **GitHub:** [EncryptedVoid](https://github.com/EncryptedVoid)  
-📱 **Phone:** 343-987-5483  
 
 ---
+
+## 🛠️ Technical Skills
+- **Front-End Development:** HTML, CSS (Tailwind), JavaScript (React), Design (Figma, Midjourney)
+- **Software Development:** Java, C++, Python
+- **Automation and Machine Learning:** Python (TensorFlow, Panda, NumPy, SciKit)
+- **Engineering:** Arduino, Raspberry Pi, Engineering Design (AutoCAD, 3D Printing, Ultimaker Cura)
+
+---
+
+## 🌐 Languages
+- English
+- French
+- Bengali
+
+---
+
+![Ashiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EncryptedVoid&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EncryptedVoid&layout=compact&theme=dark)
 
 ## 🎓 Education
 **Bachelors of Applied Sciences - Software Engineering COOP**  
 *University of Ottawa*  
 2023 - 2027  
-
----
-
-## 💼 Experience
-**Key Club International** - Lieutenant Governor Division 8/9/10  
-*09/2022 - 09/2023*  
-- Developed strategic plans to drive growth and success for divisional fundraising projects
-- Managed and led club presidents, fostering teamwork and collaboration
-- Organized and executed community service projects, events, and meetings
-
-**Purdys Chocolatier** - Sales Associate  
-*09/2022 - Present*  
-- Provided exceptional customer service with expert advice on product recommendations
-- Demonstrated professionalism and effective communication skills
 
 ---
 
@@ -54,21 +57,3 @@
 - Engineering an intuitive user interface for enhanced user experience and engagement
 
 ---
-
-## 🛠️ Technical Skills
-- **Front-End Development:** HTML, CSS (Tailwind), JavaScript (React), Design (Figma, Midjourney)
-- **Software Development:** Java, C++, Python
-- **Automation and Machine Learning:** Python (TensorFlow, Panda, NumPy, SciKit)
-- **Engineering:** Arduino, Raspberry Pi, Engineering Design (AutoCAD, 3D Printing, Ultimaker Cura)
-
----
-
-## 🌐 Languages
-- English
-- French
-- Bengali
-
----
-
-![Ashiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EncryptedVoid&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EncryptedVoid&layout=compact&theme=dark)
