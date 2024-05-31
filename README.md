@@ -1,8 +1,10 @@
 # 🏄‍♂️ Ashiq Gazi
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&random=false&width=435&lines=Software+%26+Robotics+Engineer)](https://git.io/typing-svg)
+<br/>
 
 ---
+<br/>
 
 ### 🧰 Languages and Tools
 
@@ -16,6 +18,8 @@
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <br/>
+<br/>
+
 ---
 
 ### 📊 Stats
