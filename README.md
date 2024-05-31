@@ -1,6 +1,6 @@
 # 🏄‍♂️ Ashiq Gazi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&random=false&width=435&lines=Software+Engineer+%26+Product+designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&random=false&width=435&lines=Software+%26+Robotics+Engineer)](https://git.io/typing-svg)
 
 ---
 
