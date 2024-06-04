@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Ashiq Arib Gazi, an enthusiastic software engineering student from the University of Ottawa, currently on a gap year to gain professional experience. With a strong background in customer service, leadership, and web engineering, I am passionate about leveraging my skills to drive innovation and make a positive impact.<br><br><br><br><br><br><br>
+I am Ashiq Arib Gazi, an enthusiastic software engineering student from the University of Ottawa, currently on a gap year to gain professional experience. With a strong background in customer service, leadership, and web engineering, I am passionate about leveraging my skills to drive innovation and make a positive impact.<br><br>
 
 
 ## 🌐 Socials:
