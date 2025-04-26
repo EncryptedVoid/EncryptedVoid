@@ -59,34 +59,6 @@ My passion lies in creating robust testing solutions that ensure reliability and
   
 </div>
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Intermediate-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-Basic-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### Testing & DevOps
-![Pytest](https://img.shields.io/badge/Pytest-Expert-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-Advanced-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-Advanced-4A154B?style=for-the-badge&logo=circleci&logoColor=white)
-
-### Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Intermediate-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Operating Systems & Environments
-![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![RTOS](https://img.shields.io/badge/RTOS-Advanced-0078D6?style=for-the-badge&logo=qnx&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Advanced-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Virtualization](https://img.shields.io/badge/Virtualization-Advanced-183A61?style=for-the-badge&logo=vmware&logoColor=white)
-
 ## 🏆 Awards & Recognition
 - 🏆 **Silver STAR Award** - BlackBerry QNX (2025)
 - 🌟 **Carleton University Co-op Student of the Year Nomination** - BlackBerry QNX (2024)
@@ -132,6 +104,46 @@ My passion lies in creating robust testing solutions that ensure reliability and
 - ⚡ Developed specialized performance testing tools for system components
 - 📊 Created benchmarking protocols with comparative analysis features
 
+## 🚀 Personal Projects
+### CRUCIBLE-PerformanceTestingFromScratch
+- 🔍 Comprehensive, customizable performance testing tools for system evaluation
+- 📊 Command-line tool for running configurable performance tests
+
+### WRAITH-PROJECT (Waveform Reconnaissance, Analytical Intelligence, Technical Heuristics)
+- 📡 Signal analysis and pattern recognition for network monitoring
+- 🔍 Pattern recognition algorithms with visualization dashboard
+
+### ASGARD-Automated-Investing-Analysis
+- 📈 Financial data analysis and investment decision-making tools
+- 🤖 Automated reporting system with configurable parameters
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-Intermediate-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-Basic-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Testing & DevOps
+![Pytest](https://img.shields.io/badge/Pytest-Expert-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-Advanced-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Advanced-4A154B?style=for-the-badge&logo=circleci&logoColor=white)
+
+### Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Intermediate-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Operating Systems & Environments
+![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![RTOS](https://img.shields.io/badge/RTOS-Advanced-0078D6?style=for-the-badge&logo=qnx&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Advanced-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Virtualization](https://img.shields.io/badge/Virtualization-Advanced-183A61?style=for-the-badge&logo=vmware&logoColor=white)
 
 ## 📜 Certifications
 - ⚙️ **Fundamentals of Operating Systems** - Udemy (2024)
@@ -146,20 +158,27 @@ My passion lies in creating robust testing solutions that ensure reliability and
 - 🧠 **Python OOP: Four Pillars of OOP in Python 3 for Beginners** - Udemy (2024)
 - ⏱️ **Real-time Programming for the QNX OS** - QNX (2024)
 
+## 🌐 Languages
+- 🇬🇧 **English** - Native
+- 🇧🇩 **Bengali** - Limited Working Proficiency
+- 🇫🇷 **French** - Limited Working Proficiency
+
 ## 📊 GitHub Stats & Activities
 
 <div align="center">
   
-  <!-- GitHub Stats Cards with Enhanced Parameters -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EncryptedVoid&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=400&rank_icon=github)
+  <!-- GitHub Stats and Top Languages side by side -->
+  <div>
+    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=EncryptedVoid&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" />
+    <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EncryptedVoid&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+  </div>
+  <br /><br /><br /><br /><br /><br /><br /><br />
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EncryptedVoid&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=350)
+  <!-- Streak Stats -->
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=EncryptedVoid&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
   
-  <!-- Streak Stats - Shows Contribution Consistency (Animated) -->
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EncryptedVoid&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
-  
-  <!-- Activity Graph - Shows Contribution Over Time (Animated) -->
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EncryptedVoid&bg_color=0D1117&color=e05397&line=5BCDEC&point=FFFFFF&hide_border=true)
+  <!-- Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EncryptedVoid&bg_color=0D1117&color=e05397&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
   
   <!-- Contribution Calendar (Snake Animation) -->
   <picture>
@@ -168,35 +187,29 @@ My passion lies in creating robust testing solutions that ensure reliability and
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/EncryptedVoid/EncryptedVoid/output/github-contribution-grid-snake.svg">
   </picture>
   
-  <!-- GitHub Profile Summary Cards -->
-  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EncryptedVoid&theme=radical)
+  <!-- Profile Summary -->
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EncryptedVoid&theme=radical" alt="Profile Summary" />
   
-  <!-- Productive Time Stats - When You're Most Active -->
-  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EncryptedVoid&theme=radical&utcOffset=8)
+  <!-- Productive Time and Repos per Language side by side -->
+  <div>
+    <img height="180" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EncryptedVoid&theme=radical&utcOffset=8" alt="Productive Time" />
+    <img height="180" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EncryptedVoid&theme=radical" alt="Repos per Language" />
+  </div>
+  <br /><br /><br /><br /><br /><br /><br /><br />
   
-  <!-- Repo per Language Distribution -->
-  ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EncryptedVoid&theme=radical)
+  <!-- Metrics badges in a single row -->
+  <p>
+    <img src="https://img.shields.io/github/commit-activity/m/EncryptedVoid/EncryptedVoid?style=for-the-badge&color=5BCDEC&label=Monthly%20Commits" alt="Commits" />
+    <img src="https://img.shields.io/github/issues-pr-closed/EncryptedVoid/EncryptedVoid?style=for-the-badge&color=e05397&label=Merged%20PRs" alt="Pull Requests" />
+    <img src="https://img.shields.io/github/followers/EncryptedVoid?style=for-the-badge&logo=github&labelColor=0D1117&color=5BCDEC&label=Followers" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/EncryptedVoid?style=for-the-badge&logo=github&labelColor=0D1117&color=e05397&label=Total%20Stars" alt="Stars" />
+  </p>
   
 </div>
 
-## 🏆 GitHub Trophies
+<!-- GitHub Trophies in a single row -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EncryptedVoid&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=EncryptedVoid&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
-## 📈 Contribution Metrics
-<div align="center">
-
-  <!-- Commit & Issue Details -->
-  ![Commits](https://img.shields.io/github/commit-activity/m/EncryptedVoid/EncryptedVoid?style=for-the-badge&color=5BCDEC&label=Monthly%20Commits)
-  ![Pull Requests](https://img.shields.io/github/issues-pr-closed/EncryptedVoid/EncryptedVoid?style=for-the-badge&color=e05397&label=Merged%20PRs)
-  
-  <!-- Followers & Stars Count (Real-time) -->
-  ![Followers](https://img.shields.io/github/followers/EncryptedVoid?style=for-the-badge&logo=github&labelColor=0D1117&color=5BCDEC&label=Followers)
-  ![Stars](https://img.shields.io/github/stars/EncryptedVoid?style=for-the-badge&logo=github&labelColor=0D1117&color=e05397&label=Total%20Stars)
-
-</div>
-
 ---
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=EncryptedVoid&icon=0&color=0)](https://visitcount.itsvg.in)
