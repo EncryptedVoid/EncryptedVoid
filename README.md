@@ -86,37 +86,6 @@ My passion lies in creating robust testing solutions that ensure reliability and
 - 💻 Designed and developed a professional website for Russell Driving School
 - 📱 Implemented responsive design for optimal cross-device experience
 
-## 🔧 Professional Projects
-### QNX Everywhere Testing Framework
-- 🧪 Lead Test Developer for comprehensive QA strategy
-- 🔧 Implemented multi-faceted testing approach: interface, functional, sanity, release, and UX testing
-- 📊 Established robust quality standards for product release
-
-### Raspberry Pi Image Automated Testing Framework
-- 🤖 Designed Pytest-based Python automated Jenkins functional framework
-- 🔄 Implemented automated test sequencing with comprehensive logging and reporting
-
-### Virtual Machine Testing Framework
-- 💾 Created complete Pytest automated custom framework for internal tools
-- 🖥️ Validated functionality across various VM technologies and computer architectures
-
-### Performance Testing Framework for Raspberry Pi
-- ⚡ Developed specialized performance testing tools for system components
-- 📊 Created benchmarking protocols with comparative analysis features
-
-## 🚀 Personal Projects
-### CRUCIBLE-PerformanceTestingFromScratch
-- 🔍 Comprehensive, customizable performance testing tools for system evaluation
-- 📊 Command-line tool for running configurable performance tests
-
-### WRAITH-PROJECT (Waveform Reconnaissance, Analytical Intelligence, Technical Heuristics)
-- 📡 Signal analysis and pattern recognition for network monitoring
-- 🔍 Pattern recognition algorithms with visualization dashboard
-
-### ASGARD-Automated-Investing-Analysis
-- 📈 Financial data analysis and investment decision-making tools
-- 🤖 Automated reporting system with configurable parameters
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -144,24 +113,6 @@ My passion lies in creating robust testing solutions that ensure reliability and
 ![RTOS](https://img.shields.io/badge/RTOS-Advanced-0078D6?style=for-the-badge&logo=qnx&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Advanced-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Virtualization](https://img.shields.io/badge/Virtualization-Advanced-183A61?style=for-the-badge&logo=vmware&logoColor=white)
-
-## 📜 Certifications
-- ⚙️ **Fundamentals of Operating Systems** - Udemy (2024)
-- 🔄 **GitLab CI/CD: Pipelines, CI/CD and DevOps** - Udemy (2024)
-- 🌐 **Computer Networking, Routing Protocol, Networking Architecture, and IoT** - TrainerTests (2024)
-- 🐳 **Docker in DevOps** - KodeKloud (2024)
-- 🔄 **Jenkins: Jobs, Pipelines, CI/CD and DevOps** - Udemy (2024)
-- ⚡ **Performance Testing Foundations** - Software Testing House (2024)
-- 🐚 **Bash Shell Scripting: Crash Course For Beginners** - Udemy (2024)
-- 🐳 **Docker Essentials and Development** - Udemy (2024)
-- 🐍 **Python Automation Testing With Pytest** - Udemy (2024)
-- 🧠 **Python OOP: Four Pillars of OOP in Python 3 for Beginners** - Udemy (2024)
-- ⏱️ **Real-time Programming for the QNX OS** - QNX (2024)
-
-## 🌐 Languages
-- 🇬🇧 **English** - Native
-- 🇧🇩 **Bengali** - Limited Working Proficiency
-- 🇫🇷 **French** - Limited Working Proficiency
 
 ## 📊 GitHub Stats & Activities
 
