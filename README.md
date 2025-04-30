@@ -90,10 +90,10 @@ My passion lies in creating robust testing solutions that ensure reliability and
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Intermediate-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-Advanced-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-Basic-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Testing & DevOps
@@ -104,9 +104,8 @@ My passion lies in creating robust testing solutions that ensure reliability and
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Advanced-4A154B?style=for-the-badge&logo=circleci&logoColor=white)
 
 ### Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Intermediate-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Advanced-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Operating Systems & Environments
 ![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black)
