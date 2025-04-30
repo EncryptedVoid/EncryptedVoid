@@ -73,19 +73,6 @@ My passion lies in creating robust testing solutions that ensure reliability and
 - 🎓 **University of Ottawa** (2023 - 2027)  
   Double Honours BSc: Mathematics and Computer Science (Data Science)
 
-## 💼 Professional Experience
-### BlackBerry QNX - Software Testing Specialist
-*Sept 2024 - Present | Kanata, Ontario 🇨🇦*
-- 🚀 Developed automation testing frameworks for QNX Everywhere project
-- 📈 Improved testing efficiency by 50% through custom automation
-- 🧪 Increased depth of test cases by 25%
-- 🔄 Provided direct feedback and QA support for CI/CD workflows
-
-### Freelance - Frontend Developer
-*Sept 2024 - Present | Remote 🌐*
-- 💻 Designed and developed a professional website for Russell Driving School
-- 📱 Implemented responsive design for optimal cross-device experience
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
